@@ -1,0 +1,32 @@
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #072125;
+    h3{
+        color: white;
+    }
+    a{
+        text-decoration: none;
+        color: #a6aaa9;
+    }
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+.our{
+    display: flex;
+    gap: 40px;
+}
+.quick{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.company{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 40px;
+
+}
